@@ -225,7 +225,7 @@ const Header = () => {
                 <span className="text-[20px]">
                   <FaS />
                 </span>
-                <span className="absolute left-[17px]">hoppika</span>
+                <span className="absolute left-[17px]">wiftkart</span>
               </span>
             </div>
         </Link>
@@ -257,7 +257,7 @@ const Header = () => {
                 <span className="text-[20px]">
                   <FaS />
                 </span>
-                <span className="absolute left-[17px]">hoppika</span>
+                <span className="absolute left-[17px]">wiftkart</span>
               </span>
             </div>
         </Link>
@@ -274,7 +274,7 @@ const Header = () => {
               <span className="text-[20px]">
                 <FaS />
               </span>
-              <span className="absolute left-[17px]">hoppika</span>
+              <span className="absolute left-[17px]">wiftkart</span>
             </span>
           </div>
         </Link>

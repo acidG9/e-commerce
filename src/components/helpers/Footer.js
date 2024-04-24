@@ -14,11 +14,11 @@ const Footer = () => {
                         <span className="text-[25px]">
                           <FaS/>
                         </span>
-                        <span className=" text-xl absolute left-[22px]">hoppika</span>
+                        <span className=" text-xl absolute left-[22px]">wiftkart</span>
                       </span>
                     </Link>
                     <p className="text-lg lg:inline-block sm:hidden w-full mt-4">
-                      Shoppika emerges as a premier global e-commerce brand, acclaimed for its commitment to <br /> capturing the quintessence of timeless and universally chic styles.
+                    swiftkart emerges as a premier global e-commerce brand, acclaimed for its commitment to <br /> capturing the quintessence of timeless and universally chic styles.
                     </p>
                 </div>
                 <div className="grid grid-cols-2  gap-8 sm:gap-6 sm:grid-cols-3">
@@ -37,7 +37,7 @@ const Footer = () => {
                         <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase ">Follow us</h2>
                         <ul class="text-gray-500 font-medium">
                             <li class="mb-4">
-                                <a href="https://github.com/saurabhm02/Shoppika" class="hover:underline ">Github</a>
+                                <a href="https://github.com/acidG9/e-commerce" class="hover:underline ">Github</a>
                             </li>
                             <li>
                                 <a href="https://discord.gg/" class="hover:underline">Discord</a>
@@ -59,7 +59,7 @@ const Footer = () => {
             </div>
             <hr class="my-6 border-gray-200 sm:mx-auto  lg:my-8" />
             <div className="sm:flex sm:items-center sm:justify-between">
-                <span class="text-sm text-gray-500 sm:text-center">© 2023 <Link to="/" class="hover:underline">Shoppika™</Link>. All Rights Reserved.
+                <span class="text-sm text-gray-500 sm:text-center">© 2023 <Link to="/" class="hover:underline">Swiftkart</Link>. All Rights Reserved.
                 </span>
                 <div className="flex mt-4 sm:justify-center sm:mt-0">
                     <a href="https://www.facebook.com/" class="text-gray-500 hover:text-gray-900">
@@ -74,7 +74,7 @@ const Footer = () => {
                         <FaXTwitter/>
                         <span class="sr-only">Twitter page</span>
                     </a>
-                    <a href="https://github.com/saurabhm02/Shoppika" class="text-gray-500 hover:text-gray-900  ms-5">
+                    <a href="https://github.com/acidG9/e-commerce" class="text-gray-500 hover:text-gray-900  ms-5">
                         <FaGithub/>
                         <span class="sr-only">GitHub account</span>
                     </a>
